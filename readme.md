@@ -6,4 +6,4 @@
 
 ## android preview
 
-![img](<https://github.com/knhn1004/rn-task-ui/blob/master/preview_android.png> | widht=250)
+![img](<https://github.com/knhn1004/rn-task-ui/blob/master/preview_android.png> | width=250)
