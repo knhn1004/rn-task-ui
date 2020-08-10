@@ -2,8 +2,8 @@
 
 ## ios preview
 
-![img](<https://github.com/knhn1004/rn-task-ui/blob/master/preview_ios.png> | width=250)
+<img src="https://github.com/knhn1004/rn-task-ui/blob/master/preview_ios.png" width="250px" />
 
 ## android preview
 
-![img](<https://github.com/knhn1004/rn-task-ui/blob/master/preview_android.png> | width=250)
+<img src="https://github.com/knhn1004/rn-task-ui/blob/master/preview_android.png" width="250px" />
